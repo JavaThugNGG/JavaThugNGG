@@ -5,6 +5,8 @@
 I'm a Java/C# developer.
 You can write me on  [![Telegram][2.2]][2]
 
+Check out my last project "TennisScoreBoard"!
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=efb8cc&color=e4e4e4)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=sharp&logoColor=efb8cc&color=e4e4e4)
@@ -29,3 +31,4 @@ You can write me on  [![Telegram][2.2]][2]
 
 [2.2]: https://raw.githubusercontent.com/ibobrov/ibobrov/main/tg_icon.png (Telegram icon without padding)
 [2]: https://t.me/javathug
+
